@@ -1,0 +1,27 @@
+[
+  {
+    "id": "lista1",
+    "name": "Nome vero lista 1",
+    "items": ["Elemento 1A", "Elemento 1B", "Elemento 1C", "Elemento 1D", "Elemento 1E"]
+  },
+  {
+    "id": "lista2",
+    "name": "Nome vero lista 2",
+    "items": ["Elemento 2A", "Elemento 2B", "Elemento 2C", "Elemento 2D"]
+  },
+  {
+    "id": "lista3",
+    "name": "Nome vero lista 3",
+    "items": ["Elemento 3A", "Elemento 3B", "Elemento 3C", "Elemento 3D"]
+  },
+  {
+    "id": "lista4",
+    "name": "Nome vero lista 4",
+    "items": ["Elemento 4A", "Elemento 4B", "Elemento 4C", "Elemento 4D"]
+  },
+  {
+    "id": "lista5",
+    "name": "Nome vero lista 5",
+    "items": ["Elemento 5A", "Elemento 5B", "Elemento 5C", "Elemento 5D"]
+  }
+]
